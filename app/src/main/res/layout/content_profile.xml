@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.neighbours.neighbours.ui.ProfileActivity"
+    tools:showIn="@layout/activity_profile">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="55dp"
+            android:padding="16dp"
+            tools:layout_editor_absoluteY="25dp"
+            tools:layout_editor_absoluteX="8dp">
+
+            <ImageView
+                android:id="@+id/profilePic"
+                android:layout_height="48dp"
+                android:layout_width="48dp"
+                android:scaleType="centerCrop"
+                android:layout_marginRight="8dp"/>
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Your name"
+                android:textSize="16sp"
+                android:layout_alignParentTop="true"
+                android:layout_alignLeft="@+id/id"
+                android:layout_alignStart="@+id/id" />
+            <TextView
+                android:id="@+id/id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="about you"
+                android:layout_toRightOf="@+id/profilePic"
+                android:layout_marginLeft="8dp"
+                android:textSize="14sp"
+                android:layout_below="@+id/name" />
+
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Log out"
+                android:textColor="@android:color/white"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="6dp"
+                android:paddingBottom="6dp"
+                android:layout_marginTop="14dp"
+                android:layout_below="@+id/profilePic"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="11dp"
+                android:layout_marginEnd="11dp" />
+
+
+        </RelativeLayout>
+
+
+
+</layout>

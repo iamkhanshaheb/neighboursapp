@@ -1,0 +1,89 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="actionbar_divider">1dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">32dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_horizontal_spacing">24dp</dimen>
+    <dimen name="nav_header_vertical_spacing">24dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="vertical_spacing">24dp</dimen>
+    <dimen name="space_dimension">72dp</dimen>
+    <dimen name="button_padding">36dp</dimen>
+    <dimen name="button_padding_small">24dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="layout_padding_medium">24dp</dimen>
+    <dimen name="layout_padding_big">32dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="line_margin">16dp</dimen>
+    <dimen name="line_margin_big">72dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="tiny_padding">2dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="sidebar_image_dimension">48dp</dimen>
+    <dimen name="profile_margin">8dp</dimen>
+    <dimen name="profile_name_top_padding">36dp</dimen>
+    <dimen name="profile_name_bottom_padding">16dp</dimen>
+    <dimen name="profile_image_dimension">72dp</dimen>
+    <dimen name="profile_image_margin">36dp</dimen>
+    <dimen name="profile_padding">24dp</dimen>
+    <dimen name="profile_icon_margin">16dp</dimen>
+    <dimen name="profile_text_margin">16dp</dimen>
+    <dimen name="open_space_height_small">36dp</dimen>
+    <dimen name="open_space_height">48dp</dimen>
+    <dimen name="indicator_height">64dp</dimen>
+    <dimen name="badge_margin">48dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="navigation_item_margin">16dp</dimen>
+    <dimen name="footer_logo_width">56dp</dimen>
+    <dimen name="taka_sign_dimension">24dp</dimen>
+    <dimen name="taka_sign_margin_top">20dp</dimen>
+    <dimen name="card_image_dimension">48dp</dimen>
+    <dimen name="card_black_border_paddng">8dp</dimen>
+    <dimen name="card_white_border_paddng">9dp</dimen>
+    <dimen name="card_vertical_margin">32dp</dimen>
+    <dimen name="card_vertical_margin_half">16dp</dimen>
+    <dimen name="card_horizontal_margin">16dp</dimen>
+    <dimen name="item_image_dimension">48dp</dimen>
+    <dimen name="general_image_dimension">64dp</dimen>
+    <dimen name="title_image_dimension">128dp</dimen>
+
+    <dimen name="stiny_text_size">8sp</dimen>
+    <dimen name="tiny_text_size">12sp</dimen>
+    <dimen name="xxxxsmall_text_size">14sp</dimen>
+    <dimen name="xxxsmall_text_size">16sp</dimen>
+    <dimen name="xxsmall_text_size">20sp</dimen>
+    <dimen name="xsmall_text_size">24sp</dimen>
+    <dimen name="small_text_size">32sp</dimen>
+    <dimen name="medium_text_size">48sp</dimen>
+    <dimen name="big_text_size">64sp</dimen>
+    <dimen name="recharge_padding">24dp</dimen>
+    <dimen name="shadow_radius">4dp</dimen>
+    <dimen name="shadow_x">2dp</dimen>
+    <dimen name="shadow_y">4dp</dimen>
+
+
+    <dimen name="activity_horizontal_margin_journal">16dp</dimen>
+    <dimen name="activity_vertical_margin_journal">16dp</dimen>
+
+
+    <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">20dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">48dp</dimen>
+    <dimen name="feed_item_profile_info_padding">10dp</dimen>
+    <dimen name="feed_item_profile_name">16sp</dimen>
+    <dimen name="feed_item_with_name">14sp</dimen>
+    <dimen name="feed_item_timestamp">12dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">16dp</dimen>
+    <dimen name="feed_item_status_pad_top">16dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+    <dimen name="feed_icon_text_pad">4dp</dimen>
+    <dimen name="feed_icon_text_size">20sp</dimen>
+    <dimen name="feed_item_journal_text_padding">6dp</dimen>
+
+</resources>
